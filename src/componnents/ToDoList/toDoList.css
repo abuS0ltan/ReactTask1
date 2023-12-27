@@ -1,0 +1,11 @@
+.title{
+    background-color: black;
+    margin: 0;
+    padding: 2rem;
+    color: white;
+}
+.tasks{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
